@@ -1,0 +1,8 @@
+body {
+  height: 99vh;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background: linear-gradient(to bottom right, rgb(228, 238, 245) 45%, rgb(246, 181, 199) 100%);
+  margin: 0;
+}
